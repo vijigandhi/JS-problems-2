@@ -74,7 +74,7 @@ function missing(arr)
     return total;
   }
   
-  var arr = missing([8,7,6,4,3,2,1]);
+  var arr = missing([4,9,2,5,6,8,7,1]);
   console.log(arr);
 
 
